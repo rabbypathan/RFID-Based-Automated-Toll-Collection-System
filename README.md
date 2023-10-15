@@ -23,16 +23,17 @@ access the hardware.
 - Solderless breadboard for external circuits, and 22 g solid wire for connections
 - Host PC running the Arduino development environment. Versions exist for Windows, Mac and Linux
 
-## Technical Specification:
-- Microcontroller ATmega328
-- Operating Voltage 5V
-- Input Voltage (recommended) 7-12V 
-- Input Voltage (limits) 6-20V
-- Digital I/O Pins 14 (of which 6 provide PWM output)
-- Analog Input Pins 6
-- DC Current per I/O Pin 40 mA 
-- DC Current for 3.3V Pin 50 mA
-- Flash Memory 32 KB of which 0.5 KB used by bootloader 
-- SRAM 2 KB
-- EEPROM 1 KB
-- Clock Speed 16 MHz
+## Pictures of Project:
+![4](https://github.com/rabbypathan/RFID-Based-Automated-Toll-Collection-System/assets/70917088/8ab954c1-1ad9-4e9d-b3ec-e9d5a01a9c68)
+
+![5](https://github.com/rabbypathan/RFID-Based-Automated-Toll-Collection-System/assets/70917088/ae4d1d2d-4010-4329-9942-d98162e13d8b)
+
+## Output Pictures of Project:
+![1](https://github.com/rabbypathan/RFID-Based-Automated-Toll-Collection-System/assets/70917088/4f1adbf1-96b8-4eef-95f3-cc6860da032a)
+
+![2](https://github.com/rabbypathan/RFID-Based-Automated-Toll-Collection-System/assets/70917088/67cd2a19-9376-43e2-bed8-739ead936d57)
+
+![3](https://github.com/rabbypathan/RFID-Based-Automated-Toll-Collection-System/assets/70917088/f7ef8e7d-e0f8-4336-82ba-a5fdeef56510)
+
+
+
