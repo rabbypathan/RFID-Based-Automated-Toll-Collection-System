@@ -11,3 +11,14 @@ The main objective of our project is to bring automation on toll collection both
 - IIC/I2C Serial Interface Module
 - Sonar Sensor
 - Buzzer
+
+## Programming Language:
+The Arduino runs a simplified version of the C programming language, with some extensions for 
+access the hardware.
+
+## Prerequisites:
+- Arduino Uno board
+- USB programming cable (A to B)
+- 9V battery or external power supply (for stand-alone operation)
+- Solderless breadboard for external circuits, and 22 g solid wire for connections
+- Host PC running the Arduino development environment. Versions exist for Windows, Mac and Linux
