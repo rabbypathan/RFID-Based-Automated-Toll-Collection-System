@@ -22,3 +22,17 @@ access the hardware.
 - 9V battery or external power supply (for stand-alone operation)
 - Solderless breadboard for external circuits, and 22 g solid wire for connections
 - Host PC running the Arduino development environment. Versions exist for Windows, Mac and Linux
+
+## Technical Specification:
+- Microcontroller ATmega328
+- Operating Voltage 5V
+- Input Voltage (recommended) 7-12V 
+- Input Voltage (limits) 6-20V
+- Digital I/O Pins 14 (of which 6 provide PWM output)
+- Analog Input Pins 6
+- DC Current per I/O Pin 40 mA 
+- DC Current for 3.3V Pin 50 mA
+- Flash Memory 32 KB of which 0.5 KB used by bootloader 
+- SRAM 2 KB
+- EEPROM 1 KB
+- Clock Speed 16 MHz
